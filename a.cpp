@@ -2,7 +2,7 @@
 // Class: CPSC-301
 // ===========================
 // Project Description: First project assigned to us during the first day of lecture. 
-//  Project was to teach us how arrays reading from arrays work. 
+//  Project was to teach us how reading from arrays work. 
 #include <iostream>
 using namespace std;
 
