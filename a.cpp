@@ -35,7 +35,7 @@ int main()
 void reverseArray(int const SIZE, int *array)
 {
   cout << "\nYour array in reverse order is:\n";
-  for (int i = SIZE - 1; i < 0; i--)
+  for (int i = SIZE - 1; i >= 0; i--)
   {
     cout << array[i] << "\t";
   }
